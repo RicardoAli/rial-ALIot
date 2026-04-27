@@ -1,0 +1,17 @@
+# Python (Backend)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# React (Frontend)
+node_modules/
+dist/
+build/
+.DS_Store
+.env.local
+
+# VS Code
+.vscode/
